@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/hero-img.png';
+import heroImg from '../../assets/pro.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -51,8 +51,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing mordern React web apps for commercial 
-          businesses
+        Full-Stack Developer seeking an internship to apply technical expertise in scalable web apps and performance optimization.
         </p>
         <a href={CV}  download>
           <button className="hover">
@@ -61,7 +60,7 @@ function Hero() {
         </a>
       </div>
     </section>
-  ) 
+  ); 
 }
 
-export default Hero
+export default Hero;

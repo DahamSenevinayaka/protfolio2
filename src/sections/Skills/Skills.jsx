@@ -25,7 +25,6 @@ function Skills() {
             <SkillList src={checkMarkIcon} skill="Postman"/>
             <SkillList src={checkMarkIcon} skill="Boostrap"/>
         </div>
-        <hr />
     </section>
   )
 }
