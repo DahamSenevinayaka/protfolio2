@@ -10,11 +10,11 @@ function Projects() {
     <div className={styles.projectsContainer}>
         <ProjectCard src={viberr} 
         link="https://github.com/DahamSenevinayaka/mern-course"
-        h3="Viberr"
+        h3="Product Store"
         p="Product Store Application"
         />
         <ProjectCard src={freshBurger} 
-        link="https://github.com/DahamSenevinayaka/mern-course"
+        link="https://github.com/DahamSenevinayaka/-Farmer-Product"
         h3="Farm Budy"
         p="Farmers product selling Application"
         />
